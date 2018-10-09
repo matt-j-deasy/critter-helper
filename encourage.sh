@@ -2,9 +2,6 @@
 
 clear
 
-#Animal image corresponds to hours of the day
-#8-aardvark 9- 10- 11- 12- 1- 2- 3- 4- 5-Sad Face
-
 HOUR=$(date +%H)
 DIR=./images/
 IFS=''
